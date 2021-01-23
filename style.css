@@ -1,0 +1,24 @@
+body
+{
+    background: linear-gradient(to left bottom, red, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+h1
+{
+    text-align: center;
+    font-size: 50px;
+    margin: 20px 0;
+    padding: 20px 0;
+}
+p
+{
+    font-size: 30px;
+    text-align: center;
+    margin: 20px 0;
+    padding: 20px 0;
+}
